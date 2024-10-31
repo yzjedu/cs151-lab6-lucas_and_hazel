@@ -1,61 +1,60 @@
-ENCRYPTED:
-# Lyzfywncih Xiwogyhn
+# Reflection Document
 
-* Xlcpy Zoff Hugy  : Butyf Imvilhy
-* Julnhyl Zoff Hugy: Fowum Jixiqmec
-* Mnoxyhn CX: 1930197
+* Drive Full Name  : Hazel Osborne
+* Partner Full Name: Lucas Podowski
+* Student ID: 1930197
 
-_Ivdywncpy:_
+_Objective:_
 
-**Qbun qyly sio mojjimyx ni fyulh/uwwigjfcmb?**
+**What were you supposed to learn/accomplish?**
 
-Xymcahcha uhx jlialuggcha zohwncihm, nymncha wixy, lyuxcha inbylm wixy.
+Designing and programming functions, testing code, reading others code.
 
-_Jliwyxoly:_
+_Procedure:_
 
-**Qbun mnyjm qyly ziffiqyx uhx qbun nywbhckoym xcx sio omy ni mifpy nby jlivfyg?**
+**What steps were followed and what techniques did you use to solve the problem?**
 
-Zclmn qy lyux nby lyux gy zcfy. Nbyh qy xcmwommyx qbcwb mywncih ni guey chni nbycl iqh zohwncihm. Uznyl nbcm, qy qliny nby ufailcnbg niaynbyl, uhx fumnfs wlyunyx uhx nymnyx nby wixy.
+First we read the read me file. Then we discussed which section to make into their own functions. After this, we wrote the algorithm together, and lastly created and tested the code.
 
 
-**Qbun qyly nby Eys wihwyjnm yrjfilyx?**
+**What were the Key concepts explored?**
 
-Jucl jlialuggcha, qlcncha ufailcnbgm, fiijm, yllil wbywecha
+Pair programming, writing algorithms, loops, error checking
 
-_Lymofnm_:
+_Results_:
 
-**Xcx siol lymofnm gunwb qbun sio yrjywnyx ni ayn?**
+**Did your results match what you expected to get?**
 
-Sym. C jylmihuffs bux u wiojfy cmmoym zoffs ohxylmnuhxcha biq ni ayn pulcuvfym ni nluhmzyl ni uhx zlig zohwncihm. Uznyl u vcn iz ihfchy lymyulwb, C zcaolyx cn ion. 
+Yes. I personally had a couple issues fully understanding how to get variables to transfer to and from functions. After a bit of online research, I figured it out. 
 
-**Xcx sio nls omcha pulciom nymn wumym, il yrnlygy nymn wumym?**
+**Did you try using various test cases, or extreme test cases?**
 
-Sym. Nby wixy bum yllil wbywecha ch jfuwy ni ly-jligjn omyl ni yhnyl ohncf u pufcx chjon cm acpyh.
+Yes. The code has error checking in place to re-prompt user to enter until a valid input is given.
 
-_Lyzfywncih:_
+_Reflection:_
 
-**Qbun wbuffyhaym xcx sio yhwiohnyl?**
+**What challenges did you encounter?**
 
-Um C mnunyx yulfcyl, C bux u vcn iz nliovfy omcha nby xyzchy zohwncihm jlijylfs. 
+As I stated earlier, I had a bit of trouble using the define functions properly. 
 
-**Biq xcx sio ziffiq nby zclmn 3 lofym iz jlialuggcha?**
+**How did you follow the first 3 rules of programming?**
 
-1. Nbche vyzily Jlialuggcha: Qy lyux nby lyux gy zcfy uhx wigjfynyx nby ufailcnbg vyzily mnulncha ni jlialug.
-2. Jlialug cm nby ygvixcgyhn iz nby ufailcnbg: Iol wixy ziffiqm nby ufailcnbg
-3. Cgjlipy nblioab jluwncwy: Vs wigjfyncha nbcm Fuv, C cgjlipyx gs ufailcnbg, zfiqwbuln, uhx jlialuggcha mecffm. 
+1. Think before Programming: We read the read me file and completed the algorithm before starting to program.
+2. Program is the embodiment of the algorithm: Our code follows the algorithm
+3. Improve through practice: By completing this Lab, I improved my algorithm, flowchart, and programming skills. 
 
-**Xcx sio ipylwigy nbyg, uhx biq?**
+**Did you overcome them, and how?**
 
-Sym. Uznyl ihfchy lymyulwb uhx migy nlcuf uhx yllil, qy zcaolyx cn ion. 
+Yes. After online research and some trial and error, we figured it out. 
 
-**Uhs eys nueyuqusm?**
+**Any key takeaways?**
 
-Wiggyhnm uly cgjilnuhn.
+Comments are important.
 
-**Xi sio nbche sio fyulhyx qbun sio qyly mojjimyx ni fyulh zil nbcm fuv?**
+**Do you think you learned what you were supposed to learn for this lab?**
 
-Sym C xi. C zyyf gowb gily wigzilnuvfy xyzchcha uhx jlialuggcha zohwncihm. 
+Yes I do. I feel much more comfortable defining and programming functions. 
 
-**Qbun qum cn fcey qilecha qcnb siol julnhyl?****
-Alyun! By'm hcwy, mguln, uhx qy bupy aiix xcmwommcihm uvion biq ni mifpy nby jlivfygm.
+**What was it like working with your partner?****
+Great! He's nice, smart, and we have good discussions about how to solve the problems.
 

@@ -20,7 +20,7 @@ print("-*%*-" * 50 ,"\n")
 def user_choice_correction():
     user_choice = ''
 #Prompt user to enter what they want to do at the ATM
-    user_choice = str(input('Please enter D to deposit, W to withdraw, V to view balance, or E to exit: '))
+    user_choice = str(input('Please enter \n\tD to deposit, \n\tW to withdraw,\n\tV to view balance, or \n\tE to exit: '))
     user_choice = user_choice.upper()
  #Error Check User Choice
     while user_choice != "E" and user_choice != "W" and user_choice != "V" and user_choice != "D":
